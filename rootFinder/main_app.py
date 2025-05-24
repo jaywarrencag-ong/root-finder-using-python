@@ -17,7 +17,7 @@ from methods.basic.incremental import incremental_search
 
 # Light theme colors - High Contrast Modern
 BG_COLOR = '#FFFFFF'          # Pure white background
-TEXT_COLOR = '#000000'        # Black text for maximum readability
+TEXT_COLOR = '#FF0000'        # Black text for maximum readability
 BUTTON_COLOR = '#E3F2FD'      # Light blue buttons (soft)
 PLOT_BG = '#FFFFFF'           # White plot background
 
